@@ -335,6 +335,11 @@ footer {
         font-size: 2.5rem;
     }
     
+    header {
+        display: flex;
+        position: relative;
+    }
+
     .tagline {
         font-size: 1.2rem;
     }
